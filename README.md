@@ -1,4 +1,4 @@
-# Email Phishing and Header Analyzer System
+[# Email Phishing and Header Analyzer System
 
 ## Project Overview
 
@@ -311,3 +311,4 @@ For questions or issues:
 **Last Updated**: 2026-06-05
 
 **Compliance**: Follows all lab requirements with 2 security components (Threat Detection + Authentication/Access Control)
+](https://github.com/wajeehajaved01/Email-Phishing-Detector/blob/main/README.md)
